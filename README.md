@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
+| [2652-sum-multiples](https://github.com/kubendranl/Leetcode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
