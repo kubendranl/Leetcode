@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kubendranl/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
