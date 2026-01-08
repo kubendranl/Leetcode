@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kubendranl/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kubendranl/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kubendranl/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kubendranl/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kubendranl/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kubendranl/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kubendranl/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kubendranl/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kubendranl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
