@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kubendranl/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kubendranl/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kubendranl/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kubendranl/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kubendranl/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/kubendranl/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kubendranl/Leetcode/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
