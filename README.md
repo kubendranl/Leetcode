@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kubendranl/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kubendranl/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kubendranl/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kubendranl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kubendranl/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
