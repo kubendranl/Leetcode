@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kubendranl/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kubendranl/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
