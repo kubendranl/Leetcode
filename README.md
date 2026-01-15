@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/kubendranl/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kubendranl/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/kubendranl/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kubendranl/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kubendranl/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/kubendranl/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kubendranl/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
