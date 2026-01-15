@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
 | [0867-transpose-matrix](https://github.com/kubendranl/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kubendranl/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kubendranl/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/kubendranl/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kubendranl/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/kubendranl/Leetcode/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kubendranl/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
