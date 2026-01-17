@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
+| [0819-most-common-word](https://github.com/kubendranl/Leetcode/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/kubendranl/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kubendranl/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kubendranl/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
+| [0819-most-common-word](https://github.com/kubendranl/Leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kubendranl/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kubendranl/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kubendranl/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/kubendranl/Leetcode/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/kubendranl/Leetcode/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kubendranl/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/kubendranl/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/kubendranl/Leetcode/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
