@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kubendranl/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kubendranl/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kubendranl/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kubendranl/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kubendranl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kubendranl/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kubendranl/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String Matching
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kubendranl/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kubendranl/Leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kubendranl/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kubendranl/Leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
