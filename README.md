@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kubendranl/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kubendranl/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/kubendranl/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kubendranl/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kubendranl/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kubendranl/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kubendranl/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kubendranl/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/kubendranl/Leetcode/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/kubendranl/Leetcode/tree/master/0343-integer-break) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kubendranl/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kubendranl/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
