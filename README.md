@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kubendranl/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kubendranl/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kubendranl/Leetcode/tree/master/0202-happy-number) |
+| [1768-merge-strings-alternately](https://github.com/kubendranl/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kubendranl/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/kubendranl/Leetcode/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kubendranl/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1768-merge-strings-alternately](https://github.com/kubendranl/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
