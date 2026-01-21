@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kubendranl/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kubendranl/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kubendranl/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/kubendranl/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kubendranl/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kubendranl/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/kubendranl/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kubendranl/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/kubendranl/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kubendranl/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kubendranl/Leetcode/tree/master/0342-power-of-four) |
